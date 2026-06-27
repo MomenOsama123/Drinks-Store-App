@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drink App</string>
+    <string name="order_drink">Order Drink</string>
+    <string name="enter_your_choice">Enter your choice</string>
+    <string name="what_would_you_like_to_drink">What would you like to drink?</string>
+    <string name="total_price">Total Price :</string>
+    <string name="submit_order">Submit Order</string>
+    <string name="_12">12</string>
+</resources>
